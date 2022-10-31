@@ -1,3 +1,3 @@
 # Flutter Netflix Responsive UI Starter Project
 
-## TODO: Add Images
+## TODO: Add Images in the screenshots.
